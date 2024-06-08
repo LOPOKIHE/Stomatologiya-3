@@ -1,0 +1,28 @@
+p {
+    font-size: 20px;
+}
+header, main, footer {
+    border: 2px solid black;
+}
+header {
+    background-color: blue;
+}
+main {
+    background-color: lightgreen;
+}
+footer {
+    background-color: cyan;
+}
+a {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 25px
+}
