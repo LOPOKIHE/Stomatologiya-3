@@ -1,28 +1,28 @@
-p {
-    font-size: 20px;
-}
-header, main, footer {
-    border: 2px solid black;
-}
-header {
-    background-color: blue;
-}
-main {
-    background-color: lightgreen;
-}
-footer {
-    background-color: cyan;
-}
-a {
-    border: 2px solid black;
-    border-radius: 30px;
-    padding: 3px;
-    margin: 5px;
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-}
-h1 {
-    text-align: center;
-    font-size: 25px
-}
+<html>
+    <title> Стоматологія: час роботи </title>
+    <head>
+        <link rel="stylesheet"href="style.css"/>
+    </head>
+    <body>
+    <header>
+        <a href="https://lopokihe.github.io/Stomatologiya/"> Головна<img src="https://cdn.pixabay.com/photo/2015/12/28/02/58/home-1110868_1280.png" width="23px" height="23"/> </a> 
+        <a href="https://lopokihe.github.io/Stomatologiya-2/"> Працівники<img src="https://cdn.pixabay.com/photo/2016/11/14/17/39/person-1824144_1280.png" width="23px" height="23"/> </a>
+        <a href="https://lopokihe.github.io/Stomatologiya-3/"> Час Роботи<img src="https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_1280.png" width="23px" height="23"/> </a>
+    </header>
+    <main>
+        <h1> Час роботи <img src="https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_1280.png" width="50px" height="50px"/> </h1>
+        <ul>
+            <li> Понеділок - п'ятниця: 8:00-20:00 </li>
+            <li> Субота: 7:00-18:00 </li>
+            <li> Неділя: вихідний </li>
+            </ul>
+            <img src="https://cdn.pixabay.com/photo/2024/02/16/06/26/dentist-8576790_1280.png" width="200px" height="150px"/>
+    </main>
+    <footer>
+        <p> Контакти: </p>
+        <p> Номер Телефону: 0986530971 </p>
+        <p> Адреса: Вул. Жужкова 47Г </p>
+        <p> Чекаємо вас! </p>
+    </footer>
+    </body>
+</html>
